@@ -1,14 +1,14 @@
 class Definitions:
 
 	def __init__(self):
-		self.storage = []
+		self.storage = [] #create instance variable "storage"
 
-	def add_word(word, language = "FR"):
+	def add_word(self, word, language = "FR"):
 		definition = {}
 		definition["word"] = word
 		definition["language"] = language
 
-		Definitions.storage.append(definition) #not working !!!!!
+		self.storage.append(definition)
 
 
 '''
