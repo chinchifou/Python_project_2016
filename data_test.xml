@@ -1,0 +1,21 @@
+<Dictionnary>
+
+	<Definition>
+		<id>1</id>
+		<word>verre</word>
+		<language>FR</language>
+		<gender>masculin</gender>
+		<translation>2</translation>
+		<owner>Benoit</owner>
+	</Definition>
+
+	<Definition>
+		<id>2</id>
+		<word>glass</word>
+		<language>EN</language>
+		<gender>neutral</gender>
+		<translation>1</translation>
+		<owner>Benoit</owner>
+	</Definition>
+
+</Dictionnary>
